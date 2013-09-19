@@ -9,7 +9,7 @@ Add the following to your **pom.xml** file.
 ```xml
 <repositories>
   <repository>
-    <id>aparsons-maven-repository</id>
+    <id>aparsons-github</id>
     <url>https://github.com/aparsons/maven-repository/raw/master</url>
   </repository>
 </repositories>
